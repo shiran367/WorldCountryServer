@@ -1,0 +1,11 @@
+﻿# Security / Credentials (מונע העלאת מפתחות)
+appsettings.Development.json
+appsettings.Local.json
+*.secrets.json
+appSettings.config
+
+# Visual Studio & Build files (קבצים זמניים שלא צריכים להיות ב-Git)
+.vs/
+bin/
+obj/
+*.user
